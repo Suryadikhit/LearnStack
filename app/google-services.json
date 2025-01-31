@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "299420554724",
+    "project_id": "bytepath-e14cd",
+    "storage_bucket": "bytepath-e14cd.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:299420554724:android:ce148bfcc6976c9b7663f1",
+        "android_client_info": {
+          "package_name": "com.example.learnstack"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "299420554724-74ud32ep1ep77s35dd081h3u2s0t9pps.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYOlRVwAwLGEU42CM4jhSpNdUptwehmU8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "299420554724-74ud32ep1ep77s35dd081h3u2s0t9pps.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
